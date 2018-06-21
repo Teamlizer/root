@@ -1,4 +1,5 @@
 # R0ot, always start from zeR0
+Once you are in the team, be sure read this agreement carefully and decide to go forward or not. Each of us are at same level node on P2P network, so self-respect then respect others is required.
 
 # Team discipline
 - Honest
