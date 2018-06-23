@@ -27,9 +27,23 @@
 - Patterns of Enterprise Application Architecture
 - The Architecture of Open Source Applications series
 
-### Design
+### Product Mindset
 - Don't Make Me Think
 - The Design of Everyday Things
+
+### Hacking Growth
+- Traction: A Startup Guide to Getting Customers (Traction: How Any Startup Can Achieve Explosive Customer Growth)
+- Hooked: How to Build Habit-Forming Products
+- Contagious: Why Things Catch On (Contagious: How to Build Word of Mouth in the Digital Age)
+- Lean Analytics: Use Data to Build a Better Startup Faster
+- Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success
+
+### Project Management
+- The Mythical Man-Month: Essays on Software Engineering
+- Peopleware: Productive Projects and Teams
+
+### Effective Working
+- Getting Things Done: The Art of Stress-Free Productivity
 
 ### Genius
 - Coders At Work
