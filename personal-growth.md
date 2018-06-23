@@ -44,6 +44,7 @@
 
 ### Effective Working
 - Getting Things Done: The Art of Stress-Free Productivity
+- Mindset: The New Psychology of Success
 
 ### Genius
 - Coders At Work
