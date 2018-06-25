@@ -1,6 +1,16 @@
 # R0ot, always start from zeR0
 Once you are in the team, be sure read this agreement carefully and decide to go forward or not. Each of us are at same level node on P2P network, so self-respect then respect others is required.
 
+# DNA<sub>[1]</sub>
+- Customer first. Do what make customers love us
+- Spend more time with family
+- Stay healthy. Exercise. Eat better. Sleep more
+- Never stop learning and growing
+- Work with a mission, not only for money
+- Work on hard problems, do not pick up the easy ones
+- Be nice to teammates
+- Follow agreement respectfully
+
 # Team discipline
 - Honest
 - Respectful, no one better than other.
@@ -35,3 +45,6 @@ Everyone has ambitious to strengthen themselves day by day, 20% of time should b
 - Frontend Engineer: follow Frontend roadmap [https://github.com/Teamlizer/developer-roadmap](https://github.com/Teamlizer/developer-roadmap)
 - DevOps Engineer: follow DevOps roadmap [https://github.com/Teamlizer/developer-roadmap](https://github.com/Teamlizer/developer-roadmap)
 - iOS Engineer: follow iOS roadmap [https://github.com/Teamlizer/iOS-Developer-Roadmap](https://github.com/Teamlizer/iOS-Developer-Roadmap), [https://github.com/godrm/mobile-developer-roadmap](https://github.com/godrm/mobile-developer-roadmap)
+
+# Reference
+[1] We are inspired by [Autonomous](https://www.autonomous.ai/)' DNA
