@@ -46,6 +46,9 @@
 - Getting Things Done: The Art of Stress-Free Productivity
 - Mindset: The New Psychology of Success
 
+### Software Philosophy
+- [WikiC2](http://wiki.c2.com/)
+
 ### Genius
 - Coders At Work
 - Founders at Work: Stories of Startups' Early Days
