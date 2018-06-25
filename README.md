@@ -7,7 +7,7 @@ Once you are in the team, be sure read this agreement carefully and decide to go
 - Stay healthy. Exercise. Eat better. Sleep more
 - Never stop learning and growing
 - Work with a mission, not only for money
-- Work on hard problems, do not pick up the easy ones
+- Work on hard problems, do not pick up the easy ones only
 - Be nice to teammates
 - Follow agreement respectfully
 

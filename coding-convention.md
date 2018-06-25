@@ -6,8 +6,7 @@ We use following guidelines to make our code consistent, so review code process 
 - [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Java
-- [Google Java Guideline](https://google.github.io/
-styleguide/javaguide.html)
+- [Google Java Guideline](https://google.github.io/styleguide/javaguide.html)
 
 ## Android
 - [https://github.com/ribot/android-guidelines](https://github.com/ribot/android-guidelines)
