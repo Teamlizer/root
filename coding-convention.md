@@ -1,5 +1,5 @@
 # Coding Convention
-We use following guidelines to make our code consistent, so review code process and communication become comfortable. Then, please ensure to follow these styleguide up on programming language.
+We use following guidelines to make our code consistent, so review code process and communication become comfortable. Then, please ensure to follow these styleguides up on programming language.
 
 ## Git
 - [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
