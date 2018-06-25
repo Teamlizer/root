@@ -13,6 +13,7 @@
 - Clean Code
 - Code Complete
 - Effective Java (and Effective book series)
+- [High-Quality Software Engineering](https://www.lurklurk.org/hqse/hqse.html)
 
 ### Refactoring
 - Working Effective with Legacy Code
