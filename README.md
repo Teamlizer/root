@@ -21,6 +21,7 @@ Once you are in the team, be sure read this agreement carefully and decide to go
 - Automation in heart
 - Agreement follower
 - Never time restriction but self-discipline is must
+- Get thing done
 
 # Team quality
 Everyone has ambitious to strengthen themselves day by day, 20% of time should be used for acquiring new skills. Foundation knowledge is required listed bellows but not limited.
