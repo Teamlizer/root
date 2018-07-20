@@ -2,10 +2,22 @@
 
 ## Books
 ### Foundation books
+
+##### Operating System
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (good start before dig deeply with Operating System Concepts)
 - Operating System Concepts
+
+##### Database
 - Designing Data‑Intensive Applications
+
+##### Networking
+- Computer Networking A Top-Down Approach
+
+##### Algorithms & Data structure
 - Introduction to Algorithms
 - The Algorithm Design Manual
+
+##### Methodology
 - The Pragmatic Programmer: From Journeyman to Master
 - Programming Pearls + More Programming Pearls
 
