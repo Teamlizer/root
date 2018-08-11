@@ -2,10 +2,22 @@
 
 ## Books
 ### Foundation books
+
+##### Operating System
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (good start before dig deeply with Operating System Concepts)
 - Operating System Concepts
+
+##### Database
 - Designing Data‑Intensive Applications
+
+##### Networking
+- Computer Networking A Top-Down Approach
+
+##### Algorithms & Data structure
 - Introduction to Algorithms
 - The Algorithm Design Manual
+
+##### Methodology
 - The Pragmatic Programmer: From Journeyman to Master
 - Programming Pearls + More Programming Pearls
 
@@ -80,7 +92,10 @@ We should follow these rules to acquire new skills.
 			- Backtracking Algorithms
 	- Data Structures: array, linked list (single, double, circular), stack, queue, priority queue, map, hashmap, concurrent queue, tree (binary, red-black, B-tree, ...), ...
 	- Operating System Concepts 
-		- Process, Thread, IPC, Event-loop, CPU schedule, ...
+		- Process, Thread, IPC, Event-loop, CPU schedule, critical section (block of code that use mutual variables, only need lock in this codeblock),...
+		- Concurrency
+		    - Event-based concurrency ([Chapter 33, Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf))
+		    - Lock-based concurrency ([Chapter 29, Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf))
 		- Multi-threading problems: race condition, dining philosophers, ...
 		- Multi-thread mechanisms: lock, semaphore, mutex, ...
 	- Networking
@@ -108,4 +123,4 @@ We should follow these rules to acquire new skills.
 - Always use official documentation. 
 - Must have an own written comparison report with other technologies. So need some tasks to benchmark.
 - If it makes you interested in, do actively in community (Facebook group, Telegram chat, Slack chat, Skype chat).
-- Tips: spend enough time to give smart questions because **only smart questions deserve full of quality answers**. 
+- Tips: spend enough time to give smart questions because **only smart questions deserve full of quality answers**.

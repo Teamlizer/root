@@ -5,6 +5,9 @@ We use following guidelines to make our code consistent, so review code process 
 - [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
 - [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)
 
+## C++
+- [Google C++ Guideline](https://google.github.io/styleguide/cppguide.html)
+
 ## Java
 - [Google Java Guideline](https://google.github.io/styleguide/javaguide.html)
 
