@@ -40,6 +40,14 @@
 - Patterns of Enterprise Application Architecture
 - The Architecture of Open Source Applications series
 
+### Performance
+- High Performance Browser Networking
+- High Performance MySQL
+
+### Security
+- The Tangled Web: A Guide to Securing Modern Web Applications
+- Nghệ Thuật Tận Dụng Lỗi Phần Mềm (Vietnamese book)
+
 ### Product Mindset
 - Don't Make Me Think
 - The Design of Everyday Things
