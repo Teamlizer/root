@@ -2,6 +2,7 @@
 
 ## Books
 ### Foundation books
+- [Software Engineering Foundation book](https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf) by IEEE Computer Society
 
 ##### Operating System
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (good start before dig deeply with Operating System Concepts)
