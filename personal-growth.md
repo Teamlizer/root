@@ -74,6 +74,7 @@
 ### Genius
 - Coders At Work
 - Founders at Work: Stories of Startups' Early Days
+- [Software Engineering at Google](https://abseil.io/resources/swe_at_google.2.pdf)
 
 ## Learning Approach
 We should follow these rules to acquire new skills.
